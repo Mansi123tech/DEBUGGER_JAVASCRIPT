@@ -1,0 +1,20 @@
+//debugger - tells about the step undergone  in the particular function call or task .
+
+// function add ( num1 , num2 )
+// {
+//     return num1 + num2;
+// }
+
+// function mul (num1 , num2)
+// {
+//  return num1*num2;
+// }
+
+// function calculator (num1 , num2 , opertaor)  //HIGHER ORDER FUNCTION
+// {
+//  return opertaor(num1 , num2);
+
+// }
+
+
+// console.log(caculator(9,10,add);
